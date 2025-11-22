@@ -7,10 +7,17 @@ Accurate-Deep-Scanner is an advanced penetration testing tool designed for seaml
 
 The tool enables real-time communication, remote command execution, and efficient vulnerability scanning without requiring local console access. With built-in Telegram support, security professionals can manage scans, receive instant reports, and monitor progress from anywhere. Accurate-Deep-Scanner simplifies collaboration by providing updates within private or group chats, ensuring both accessibility and security. It empowers cybersecurity teams to identify weaknesses, automate reconnaissance, and enhance proactive defense measures conveniently through a trusted messaging platform.
 
-**How to clone the repo**
+## How to clone the repo
+
+```bash
 
 git clone https://github.com/Iankulani/accurate-deep-scanner.git
 
-**How to run**
+cd accurate-deep-scanner
 
+```
+
+```bash
+## How to run
 python accurate-deep-scanner.py
+```
