@@ -17,7 +17,7 @@ cd accurate-deep-scanner
 
 ```
 
-```bash
 ## How to run
+```bash
 python accurate-deep-scanner.py
 ```
